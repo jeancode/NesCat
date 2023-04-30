@@ -1,4 +1,4 @@
-![Image description](https://github.com/nathalis/NesCat/raw/main/NESCAT_icon.png)
+![Image description](https://github.com/jeancode/NesCat/raw/main/NESCAT_icon.png)
 
 # NesCat 0.5
 
@@ -33,23 +33,23 @@ esp32.menu.PSRAM.enabled.build.defines=-DBOARD_HAS_PSRAM
 Only for personal & educational use! 
 
 ### DIAGRAM (NEW)
-![Image description](https://github.com/nathalis/NesCat/raw/main/PCB/SCHEMATIC.png)
-![Image description](https://github.com/nathalis/NesCat/raw/main/PCB/BOARD.png)
+![Image description](https://github.com/jeancode/NesCat/raw/main/PCB/SCHEMATIC.png)
+![Image description](https://github.com/jeancode/NesCat/raw/main/PCB/BOARD.png)
 
 
 ### IMAGES:
 
-![Image description](https://github.com/nathalis/NesCat/raw/main/Images/001.jpg)
-![Image description](https://github.com/nathalis/NesCat/raw/main/Images/002.jpg)
-![Image description](https://github.com/nathalis/NesCat/raw/main/Images/003.jpg)
-![Image description](https://github.com/nathalis/NesCat/raw/main/Images/004.jpg)
-![Image description](https://github.com/nathalis/NesCat/raw/main/Images/005.jpg)
-![Image description](https://github.com/nathalis/NesCat/raw/main/Images/006.jpg)
-![Image description](https://github.com/nathalis/NesCat/raw/main/Images/007.jpg)
-![Image description](https://github.com/nathalis/NesCat/raw/main/Images/008.jpg)
-![Image description](https://github.com/nathalis/NesCat/raw/main/Images/009.jpg)
-![Image description](https://github.com/nathalis/NesCat/raw/main/Images/010.jpg)
-![Image description](https://github.com/nathalis/NesCat/raw/main/Images/011.jpg)
-![Image description](https://github.com/nathalis/NesCat/raw/main/Images/012.jpg)
+![Image description](https://github.com/jeancode/NesCat/raw/main/Images/001.jpg)
+![Image description](https://github.com/jeancode/NesCat/raw/main/Images/002.jpg)
+![Image description](https://github.com/jeancode/NesCat/raw/main/Images/003.jpg)
+![Image description](https://github.com/jeancode/NesCat/raw/main/Images/004.jpg)
+![Image description](https://github.com/jeancode/NesCat/raw/main/Images/005.jpg)
+![Image description](https://github.com/jeancode/NesCat/raw/main/Images/006.jpg)
+![Image description](https://github.com/jeancode/NesCat/raw/main/Images/007.jpg)
+![Image description](https://github.com/jeancode/NesCat/raw/main/Images/008.jpg)
+![Image description](https://github.com/jeancode/NesCat/raw/main/Images/009.jpg)
+![Image description](https://github.com/jeancode/NesCat/raw/main/Images/010.jpg)
+![Image description](https://github.com/jeancode/NesCat/raw/main/Images/011.jpg)
+![Image description](https://github.com/jeancode/NesCat/raw/main/Images/012.jpg)
 
 
